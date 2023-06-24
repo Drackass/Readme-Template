@@ -156,7 +156,8 @@ $ git init
 > **Warning**
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-> Lorem[^1] ipsum[^2]
+> - [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+> - [ ] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 > | Lorem | Ipsum|
 > |:---| :---:|
@@ -165,11 +166,15 @@ $ git init
 > | Lorem   | ⚠️ |
 > | Lorem   | ℹ️ |
 
+> Lorem[^1] ipsum[^2]
+
 </details>
 
 ---
 
 <sub>`Contributors Here`</sub>
+
+[//]: contributor-faces
 
 </br>
 
