@@ -173,7 +173,7 @@ $ git init
 
 </br>
 
-<p align="center"><a href="https://github.com/Drackass/Hello-World#readme-top" align="center"><img alt="Main Banner" src="https://static.vecteezy.com/system/resources/previews/011/893/855/original/neumorphic-up-arrow-icon-neumorphism-ui-button-free-png.png" width="50px"></a></p>
+<p align="center"><a href="#" align="center"><img alt="to the top" src="https://static.vecteezy.com/system/resources/previews/011/893/855/original/neumorphic-up-arrow-icon-neumorphism-ui-button-free-png.png" width="50px"></a></p>
 
 [^1]:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
