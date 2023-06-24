@@ -172,9 +172,8 @@ $ git init
 
 ---
 
-<sub>`Contributors Here`</sub>
-
-[//]: contributor-faces
+<!-- You can get your avatar url on: https://api.github.com/users/YourPseudo -->
+<a href="https://github.com/Drackass"><img src="https://avatars.githubusercontent.com/u/105803677?v=4" title="goingdust" width="70" height="70"></a>
 
 </br>
 
