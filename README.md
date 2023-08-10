@@ -269,8 +269,7 @@ $ git init
 [![Discord](https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=discord&logoColor=white&labelColor=5662f6)](https://support.discord.com/hc/en-us)
 [![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=f05033)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-1d2024?style=for-the-badge&logo=github&logoColor=white&labelColor=1d2024)](https://docs.github.com/en)
-
-
+[![Sass](https://img.shields.io/badge/Sass-cd669a?style=for-the-badge&logo=sass&logoColor=white&labelColor=cd669a)](https://sass-lang.com/)
 
 </details>
 
